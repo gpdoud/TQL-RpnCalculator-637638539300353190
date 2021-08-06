@@ -1,0 +1,13 @@
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\bin\Debug\netcoreapp3.1\TQL-RpnCalculator.exe
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\bin\Debug\netcoreapp3.1\TQL-RpnCalculator.deps.json
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\bin\Debug\netcoreapp3.1\TQL-RpnCalculator.runtimeconfig.json
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\bin\Debug\netcoreapp3.1\TQL-RpnCalculator.runtimeconfig.dev.json
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\bin\Debug\netcoreapp3.1\TQL-RpnCalculator.dll
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\bin\Debug\netcoreapp3.1\TQL-RpnCalculator.pdb
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\obj\Debug\netcoreapp3.1\TQL-RpnCalculator.csproj.AssemblyReference.cache
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\obj\Debug\netcoreapp3.1\TQL-RpnCalculator.AssemblyInfoInputs.cache
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\obj\Debug\netcoreapp3.1\TQL-RpnCalculator.AssemblyInfo.cs
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\obj\Debug\netcoreapp3.1\TQL-RpnCalculator.csproj.CoreCompileInputs.cache
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\obj\Debug\netcoreapp3.1\TQL-RpnCalculator.dll
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\obj\Debug\netcoreapp3.1\TQL-RpnCalculator.pdb
+C:\repos\TQL-RpnCalculator\TQL-RpnCalculator\obj\Debug\netcoreapp3.1\TQL-RpnCalculator.genruntimeconfig.cache
